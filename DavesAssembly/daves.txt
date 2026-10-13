@@ -1,23 +1,4 @@
-Pastebin
-API
-tools
-faq
-paste
-Search...
 
-Login Sign up
-SHARE
-TWEET
-Guest User
-HelloAssemly.asm
-a guest
-Mar 22nd, 2021
-14,793
-5
-Never
-1
-Not a member of Pastebin yet? Sign Up, it unlocks many cool features!
- 7.18 KB | None |
 
 ;-------------------------------------------------------------------------------------------------------------------
 ; Hello, Windows!  in x86 ASM - (c) 2021 Dave's Garage - Use at your own risk, no warranty!
